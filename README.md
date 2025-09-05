@@ -19,7 +19,7 @@ polygon-animation/
 ├── polygon.html
 ├── polygon.css
 ├── polygon.js
-├── particles.min.js
+├── blueparticles.min.js
 └── LICENSE
 ```
 ---
