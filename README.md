@@ -14,3 +14,10 @@ Can be used for **login forms, landing pages, or any modern web design.**
 ---
 
 ## 📂 Project Structure
+polygon-animation/
+│── index.html # Main HTML file
+│── style.css # Styling for the background & layout
+│── polygon.js # JavaScript for polygon / particle animation
+│── particles.json # Config file (optional, can tweak animation settings)
+│── README.md # Project documentation
+│── LICENSE # MIT License file
